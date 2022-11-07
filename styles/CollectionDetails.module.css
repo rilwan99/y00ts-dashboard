@@ -1,0 +1,30 @@
+.mainCard {
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+  justify-content: space-around;
+}
+
+.img {
+  height: 100px;
+  width: 150px;
+}
+
+.img2 {
+  height: 75px;
+  width: 150px;
+  margin-top: -10%;
+}
+
+.subCard p {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+.miniCard {
+  display: flex;
+  flex-direction: row;
+}
